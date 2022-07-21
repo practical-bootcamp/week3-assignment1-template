@@ -12,7 +12,7 @@ This repository uses automated grading (or testing). When starting, all automate
 
 1. Go to the [tests](./tests) directory and fix the [invalid.py](./tests/invalid.py) so that Pytest automatically collects it.
 1. Update the three tests inside [invalid.py](./tests/invalid.py) so that Pytest can run them.
-1. Go to the [tests/test_utils.py](./tests/test_util.py) test file and fix the three tests that aren't passing.
+1. Go to the [tests/test_utils.py](./tests/test_utils.py) test file and fix the three tests that aren't passing.
 1. Repeat the fix/push/verify cycle until all tests are passing and the [actions](/../../actions) tab shows a green.
 
 > 💡 As part of the GitHub Classroom setup, you might get an automated Pull Request created for direct feedback by your Professor or by the TAs.
