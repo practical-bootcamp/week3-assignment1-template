@@ -6,11 +6,17 @@
 
 import os
 from os.path import dirname
+import pytest
+
 
 current_dir = dirname(os.path.abspath(__file__))
 root = dirname(current_dir)
 report_file = os.path.join(root, "test_report.txt")
 
+
+def test_report_exists():
+    if os.path.exists(report_file):
+        pytest.fail(f"A report file exists but it should be automatically generated. Please remove it: {report_file}")
 
 def invalid_test():
     with open(report_file, "a") as _f:
