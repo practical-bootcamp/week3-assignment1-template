@@ -52,3 +52,6 @@ This assignment is for Week 3 (out of 4) of the Python Bootcamp for Data. The wh
 - [Week 2: Python Functions and Classes](https://github.com/alfredodeza/python-functions-and-classes)
 - [Week 3: Testing In Python](https://github.com/alfredodeza/python-testing/)
 - [Week 4: Introduction to Pandas and NumPy](https://github.com/alfredodeza/pandas-and-numpy)
+
+## Bonus challenge
+Open the [bonus](./bonus) directory and then look into the [main.py](./bonus/main.py) file. It has several functions that could use some refactoring and unit tests. The tasks are marked with `#TODO` comments. Follow the instructions for each comment. This bonus assignment is not graded and will not trigger auto-grading. It is meant to be a challenge for you to practice what you learned in the course.
