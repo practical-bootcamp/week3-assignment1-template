@@ -17,6 +17,7 @@ This repository uses automated grading (or testing). When starting, all automate
 
 > 💡 As part of the GitHub Classroom setup, you might get an automated Pull Request created for direct feedback by your Professor or by the TAs.
 
+**Verify your work** by running `pytest -v` in the root of your repository. If you are using Codespaces, `pytest` will already be installed for you and available for you to run tests that are used for auto-grading. 
 
 ## Resources
 
