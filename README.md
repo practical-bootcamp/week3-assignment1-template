@@ -23,6 +23,17 @@ This repository uses automated grading (or testing). When starting, all automate
 
 Use the linked resources in this section to review and reference any of the previously covered content. All questions in this assignment come from content previously covered in the bootcamp course.
 
+### GitHub Copilot 
+In this assignment, you'll use [GitHub Copilot](https://github.com/features/copilot). If you are using Codespaces, then the extension is already installed for you. Otherwise you can search for it in extensions on Visual Studio Code, and then install it. 
+
+#### How to get GitHub Copilot for free
+If you have an educational email address (usually one that ends on `.edu`) then you can validate your student or faculty status by [following this guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279?WT.mc_id=academic-0000-alfredodeza)
+
+### How do I use Copilot
+Copilot is an AI-assistive technology that will suggest you completions _that you must verify as correct_. Suggestions are accepted by hitting the `Tab` key. You can also write a _prompt_ as a comment. Suggestions will be generated after you hit the `Enter` or `Return` keys.
+
+Use the [following videos from Microsoft](https://learn.microsoft.com/shows/introduction-to-github-copilot/?WT.mc_id=academic-0000-alfredodeza) as a reference on how to get started.
+
 ### Week 3 Reference Content
 
 1. [Introduction to testing](https://github.com/alfredodeza/python-testing/tree/main/notebooks/lesson1)
