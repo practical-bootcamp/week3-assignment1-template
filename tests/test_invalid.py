@@ -14,17 +14,17 @@ root = dirname(current_dir)
 report_file = os.path.join(root, "test_report.txt")
 
 
-def invalid_test():
+def test_invalid_test():
     with open(report_file, "a") as _f:
         _f.write("test 1\n")
 
 
-class InvalidTestClass:
+class TestInvalidTestClass:
 
-    def invalid_method(self):
+    def test_invalid_method(self):
         with open(report_file, "a") as _f:
             _f.write("test 2\n")
 
-    def other_test(self):
+    def test_other_test(self):
         with open(report_file, "a") as _f:
             _f.write("test 3\n")
