@@ -6,6 +6,10 @@ This week, you learned the basics of Python testing. From a brief overview of th
 
 > 💡 This template repository is made for GitHub Classroom delivery, but can be used independently if you want to learn on your own.
 
+Access the full course on edX.org
+
+[![edx](https://prod-discovery.edx-cdn.org/cdn-cgi/image/width=378,height=auto,quality=85,format=webp/media/course/image/f000e639-3771-4569-b58a-1a0df8ec32c8-18d59c183383.png)](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-python-fundamentals-for-mlops "Python for MLOps")
+
 ## Assignment instructions
 
 This repository uses automated grading (or testing). When starting, all automated tests will fail. Your task is to make them all pass.
@@ -54,9 +58,11 @@ Use the [following videos from Microsoft](https://learn.microsoft.com/shows/intr
 
 ### Course video and links
 
-> 🎥 Click the image below to access Week 3 of the full course on O'Reilly
+> 🎥 Click the image below to access this course on edX.org
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-bootcamp-for/50146VIDEOPAIML/50146VIDEOPAIML-c1_s2/ "Introduction to Python")
+[![edx](https://prod-discovery.edx-cdn.org/cdn-cgi/image/width=378,height=auto,quality=85,format=webp/media/course/image/f000e639-3771-4569-b58a-1a0df8ec32c8-18d59c183383.png)](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-python-fundamentals-for-mlops "Python for MLOps")
+
+You can also find this course on the [Coursera Platform](https://www.coursera.org/learn/python-mlops-duke)
 
 This assignment is for Week 3 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
 
